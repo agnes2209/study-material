@@ -28,3 +28,6 @@ print("After sort():", numbers)
 
 numbers.clear()
 print("After clear():", numbers)
+
+
+
